@@ -6,7 +6,7 @@ https://gagniuc.github.io/Sequence-Logos-based-on-maximum-values/
 
 # Screenshot
 
-![screenshot](https://github.com/Gagniuc/DNA-motif-sequences-to-Sequence-Logos/blob/main/Sequence%20Logos%20in%20JS.PNG)
+![screenshot](https://github.com/Gagniuc/Sequence-Logos-based-on-maximum-values/blob/main/Sequence%20Logos%20based%20on%20maximum%20values.png)
 
 # References
 
